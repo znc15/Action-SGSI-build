@@ -6,19 +6,19 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bigota.d.miui.com/V12.5.3.0.RJKCNXM/miui_LMI_V12.5.3.0.RJKCNXM_6b6009fd32_11.0.zip'
+        default: 'https://download.meizu.com/Firmware/Flyme/16th/9.21.8.10/cn_beta/20210810002326/05cc14ae/update.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_LMI_V12.5.3.0.RJKCNXM_6b6009fd32_11.0.zip'
+        default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'flyme'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'V12.5.3.0-AB-sgsi.zip'
+        default: 'Flyme-AB-sgsi.zip'
 
 
 
