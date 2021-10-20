@@ -6,19 +6,19 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://download.meizu.com/Firmware/Flyme/16th/9.21.8.10/cn_beta/20210810002326/05cc14ae/update.zip'
+        default: 'https://bigota.d.miui.com/21.10.15/miui_CEPHEUS_21.10.15_b9e51b2274_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'miui_CEPHEUS_21.10.15_b9e51b2274_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'MIUI'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme-AB-sgsi.zip'
+        default: 'MIUI-AB-sgsi.zip'
 
 
 
